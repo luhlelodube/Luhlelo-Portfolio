@@ -1,4 +1,4 @@
-# Luhlelo Dube — Personal Portfolio
+# Luhlelo Dube - Personal Portfolio
 
 **Software Engineering | Artificial Intelligence | Network Systems | Intelligent Computing**
 
@@ -20,7 +20,7 @@ It reflects my work across software engineering, artificial intelligence, machin
 
 ## Featured Projects
 
-### Trade Tech — Business Management & Commerce Platform
+### Trade Tech - Business Management & Commerce Platform
 
 A mobile and web-based business technology solution developed for **TradeTech Solutions**, designed to support business operations and customer engagement.
 
@@ -78,7 +78,7 @@ Its visual identity combines neutral backgrounds, charcoal typography, forest-gr
 
 ## Education & Research Interests
 
-**National Dong Hwa University — Taiwan**  
+**National Dong Hwa University - Taiwan**  
 B.S. Computer Science and Information Engineering  
 Expected graduation: 2027
 
