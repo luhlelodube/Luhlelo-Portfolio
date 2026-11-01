@@ -1,23 +1,104 @@
-# Luhlelo Dube — multi-page portfolio
+# Luhlelo Dube — Personal Portfolio
 
-## Running locally
-1. Open this folder in VS Code.
-2. Right-click `index.html` → **Open with Live Server**, or in a terminal run `python -m http.server 5500`.
-3. Open http://localhost:5500.
-4. Stop Live Server with **Stop Live Server**, or press Ctrl+C if using Python.
+**Software Engineering | Artificial Intelligence | Network Systems | Intelligent Computing**
 
-## Pages
-- index.html — home
-- projects.html — filterable projects
-- trade-tech.html — Trade Tech case study
-- about.html — background
-- credentials.html — certificates
-- contact.html — contact links
-- assets/styles.css — global design system
-- assets/app.js — nav, project filters, scroll reveals
+Official personal portfolio of **Luhlelo Dube**, a Computer Science and Information Engineering student at National Dong Hwa University (NDHU), Taiwan, and a software developer with interests in full-stack application development, artificial intelligence, network automation, distributed systems, and intelligent technologies.
 
-## Before deploying
-- Replace illustrative project mockups with your own screenshots where desired.
-- Verify individual project descriptions and certificate titles.
-- Update the Google Play status only after official approval.
-- This is a static frontend demo and does not collect data or require a backend.
+**Website:** [luhlelodube.com](https://luhlelodube.com)  
+**GitHub:** [github.com/luhlelodube](https://github.com/luhlelodube)  
+**LinkedIn:** [Luhlelo Dube](https://www.linkedin.com/in/luhlelo-dube-61980528b)
+
+---
+
+## About This Portfolio
+
+This repository contains the source code for **luhlelodube.com**, my personal website and professional portfolio.
+
+The website serves as a central platform for presenting my technical projects, academic background, research interests, professional experience, and certifications.
+
+It reflects my work across software engineering, artificial intelligence, machine learning, network infrastructure, automation, and data-driven applications.
+
+## Featured Projects
+
+### Trade Tech — Business Management & Commerce Platform
+
+A mobile and web-based business technology solution developed for **TradeTech Solutions**, designed to support business operations and customer engagement.
+
+I independently designed and developed the Trade Tech mobile application and its supporting website, implementing functionality for inventory management, sales recording, expense tracking, business reporting, customer pre-orders, and order management.
+
+**Technologies:** Flutter, Dart, Supabase, PostgreSQL
+
+**Official website:** [tradetecheswatini.online](https://tradetecheswatini.online/)
+
+**Android application:** Google Play release pending approval.
+
+### AI-Driven Network and IoT Device Management
+
+An undergraduate capstone project developed as part of a four-member team at National Dong Hwa University.
+
+The project explores intelligent network management using AI-assisted automation workflows, network monitoring, infrastructure virtualization, and natural-language interactions.
+
+**Technologies:** Python, n8n, GNS3, Proxmox, Docker, SNMP, MQTT, Netmiko, NAPALM
+
+### Fraud and Anomaly Detection
+
+A machine-learning prototype for transaction risk assessment, anomaly identification, and automated reporting.
+
+**Technologies:** Python, scikit-learn, FastAPI, PostgreSQL, Streamlit, Docker
+
+---
+
+## Technical Expertise
+
+- **Software Development:** Python, Dart, Flutter, C, C++, SQL, REST APIs
+- **Artificial Intelligence:** Machine Learning, Computer Vision, PyTorch, scikit-learn, LLM Applications
+- **Network Systems:** GNS3, Proxmox, Cisco Networking, SNMP, MQTT
+- **Automation & Infrastructure:** Docker, Linux, n8n, Netmiko, NAPALM
+- **Databases & Backend:** PostgreSQL, Supabase, FastAPI, Microsoft SQL Server
+- **Development Tools:** Git, GitHub, VS Code
+
+## Website Architecture
+
+The portfolio uses a lightweight, responsive, multi-page architecture built with HTML5, CSS3, and JavaScript.
+
+| Page | Description |
+|---|---|
+| `index.html` | Homepage and featured work |
+| `projects.html` | Software projects and technical portfolio |
+| `trade-tech.html` | Trade Tech project case study |
+| `about.html` | Academic and professional background |
+| `credentials.html` | Certifications and achievements |
+| `contact.html` | Contact information and professional links |
+
+### Design & User Experience
+
+The website incorporates responsive layouts, custom typography, interactive project elements, subtle motion design, scroll-triggered animations, and accessible navigation.
+
+Its visual identity combines neutral backgrounds, charcoal typography, forest-green accents, and warm yellow highlights.
+
+## Education & Research Interests
+
+**National Dong Hwa University — Taiwan**  
+B.S. Computer Science and Information Engineering  
+Expected graduation: 2027
+
+Areas of academic and research interest include:
+
+- Artificial Intelligence and Machine Learning
+- Distributed Systems and Cloud Computing
+- Intelligent Transportation Systems
+- Connected and Automated Vehicles
+- Sustainable Computing and Smart Cities
+- Network Automation and Intelligent Infrastructure
+
+## Contact
+
+I welcome opportunities involving software development, research collaboration, internships, and technology-driven projects.
+
+**Email:** luhlelodube@gmail.com  
+**Website:** [luhlelodube.com](https://luhlelodube.com)  
+**GitHub:** [github.com/luhlelodube](https://github.com/luhlelodube)
+
+---
+
+© 2026 Luhlelo Dube. All rights reserved.
