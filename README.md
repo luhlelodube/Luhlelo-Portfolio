@@ -6,7 +6,7 @@ Official personal portfolio of **Luhlelo Dube**, a Computer Science and Informat
 
 **GitHub:** [github.com/luhlelodube](https://github.com/luhlelodube)  
 **LinkedIn:** [Luhlelo Dube](https://www.linkedin.com/in/luhlelo-dube-61980528b)  
-**Instagram:**[luhlelodube](https://www.instagram.com/luhlelodube?srtk=bzE1OHRia2s1aWp1&utm_source=qr)  
+**Instagram:** [luhlelodube](https://www.instagram.com/luhlelodube?srtk=bzE1OHRia2s1aWp1&utm_source=qr)  
 
 ---
 
