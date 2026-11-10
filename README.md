@@ -4,9 +4,9 @@
 
 Official personal portfolio of **Luhlelo Dube**, a Computer Science and Information Engineering student at National Dong Hwa University (NDHU), Taiwan, and a software developer with interests in full-stack application development, artificial intelligence, network automation, distributed systems, and intelligent technologies.
 
-**Website:** [luhlelodube.com](https://luhlelodube.com)  
 **GitHub:** [github.com/luhlelodube](https://github.com/luhlelodube)  
 **LinkedIn:** [Luhlelo Dube](https://www.linkedin.com/in/luhlelo-dube-61980528b)
+**Instagram:**[luhlelodube](https://www.instagram.com/luhlelodube?srtk=bzE1OHRia2s1aWp1&utm_source=qr)
 
 ---
 
