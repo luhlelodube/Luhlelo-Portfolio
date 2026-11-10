@@ -96,8 +96,9 @@ Areas of academic and research interest include:
 I welcome opportunities involving software development, research collaboration, internships, and technology-driven projects.
 
 **Email:** luhlelodube@gmail.com  
-**Website:** [luhlelodube.com](https://luhlelodube.com)  
-**GitHub:** [github.com/luhlelodube](https://github.com/luhlelodube)
+**Instagram:** [luhlelodube](https://www.instagram.com/luhlelodube?srtk=bzE1OHRia2s1aWp1&utm_source=qr)   
+**GitHub:** [github.com/luhlelodube](https://github.com/luhlelodube) 
+**LinkedIn:** [Luhlelo Dube](https://www.linkedin.com/in/luhlelo-dube-61980528b)  
 
 ---
 
