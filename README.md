@@ -97,7 +97,7 @@ I welcome opportunities involving software development, research collaboration, 
 
 **Email:** luhlelodube@gmail.com  
 **Instagram:** [luhlelodube](https://www.instagram.com/luhlelodube?srtk=bzE1OHRia2s1aWp1&utm_source=qr)   
-**GitHub:** [github.com/luhlelodube](https://github.com/luhlelodube) 
+**GitHub:** [github.com/luhlelodube](https://github.com/luhlelodube)  
 **LinkedIn:** [Luhlelo Dube](https://www.linkedin.com/in/luhlelo-dube-61980528b)  
 
 ---
