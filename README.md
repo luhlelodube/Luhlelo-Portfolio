@@ -30,7 +30,7 @@ I independently designed and developed the Trade Tech mobile application and its
 
 **Official website:** [tradetecheswatini.online](https://tradetecheswatini.online/)
 
-**Android application:** Google Play release pending approval.
+**Android application:** [Available on Google Play](https://play.google.com/store/apps/details?id=com.tradetech.app).
 
 ### AI-Driven Network and IoT Device Management
 
@@ -40,9 +40,11 @@ The project explores intelligent network management using AI-assisted automation
 
 **Technologies:** Python, n8n, GNS3, Proxmox, Docker, SNMP, MQTT, Netmiko, NAPALM
 
+**Project repository:** [AI-Driven Network and IoT Device Management Using Agentic Automation Workflows](https://github.com/luhlelodube/AI-Driven-Network-and-IoT-Device-Management-Using-Agentic-Automation-Workflows)
+
 ### Fraud and Anomaly Detection
 
-A machine-learning prototype for transaction risk assessment, anomaly identification, and automated reporting.
+A technical implementation contributed to a collaborative student research project. I developed a prototype that evaluated 5,500 synthetic transactions with a Random Forest model and rule-based risk checks, integrating automated alerts and a demonstration dashboard. The official academic project repository is not linked because the work belongs to the team I assisted.
 
 **Technologies:** Python, scikit-learn, FastAPI, PostgreSQL, Streamlit, Docker
 
